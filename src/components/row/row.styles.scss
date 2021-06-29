@@ -1,0 +1,14 @@
+
+@media (max-width: 850px) {
+
+    .date,
+    .domain {
+        display: none;
+    }
+
+    .title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

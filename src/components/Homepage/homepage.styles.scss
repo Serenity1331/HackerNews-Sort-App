@@ -1,0 +1,40 @@
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #11113c;
+}
+
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background-image: linear-gradient(to right top, #2c3030, #1f2628, #151d22, #0b121b, #010113);
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #2B2C34;
+  border-radius: 20px;
+  border: 3px solid #009797;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right top, #2c3030, #1f2628, #151d22, #0b121b, #010113);
+  }
+
+.container-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+@media (max-width: 850px) {
+  
+  html, body {
+    overflow-x: hidden;
+  }
+
+}

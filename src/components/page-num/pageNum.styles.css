@@ -1,0 +1,24 @@
+.page-num {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 35px;
+  height: 35px;
+  margin: 5px;
+  background-color: #212329;
+  border: 2px solid #b3b6b6;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  opacity: 0.8;
+}
+.page-num:hover {
+  box-shadow: 0px 0px 8px 0px #00eaea;
+}
+.page-num.current-page {
+  border: 2px solid #00eaea;
+  font-weight: bold;
+  opacity: 1;
+  box-shadow: 0px 0px 8px 0px #00eaea;
+}/*# sourceMappingURL=pageNum.styles.css.map */
