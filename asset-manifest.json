@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/HackerNews-Sort-App/static/css/main.4effa4f7.chunk.css",
-    "main.js": "/HackerNews-Sort-App/static/js/main.2d53af50.chunk.js",
-    "main.js.map": "/HackerNews-Sort-App/static/js/main.2d53af50.chunk.js.map",
+    "main.css": "/HackerNews-Sort-App/static/css/main.9f33b17f.chunk.css",
+    "main.js": "/HackerNews-Sort-App/static/js/main.9cbd369e.chunk.js",
+    "main.js.map": "/HackerNews-Sort-App/static/js/main.9cbd369e.chunk.js.map",
     "runtime-main.js": "/HackerNews-Sort-App/static/js/runtime-main.fffd7220.js",
     "runtime-main.js.map": "/HackerNews-Sort-App/static/js/runtime-main.fffd7220.js.map",
     "static/js/2.091b9918.chunk.js": "/HackerNews-Sort-App/static/js/2.091b9918.chunk.js",
     "static/js/2.091b9918.chunk.js.map": "/HackerNews-Sort-App/static/js/2.091b9918.chunk.js.map",
     "index.html": "/HackerNews-Sort-App/index.html",
-    "static/css/main.4effa4f7.chunk.css.map": "/HackerNews-Sort-App/static/css/main.4effa4f7.chunk.css.map",
+    "static/css/main.9f33b17f.chunk.css.map": "/HackerNews-Sort-App/static/css/main.9f33b17f.chunk.css.map",
     "static/js/2.091b9918.chunk.js.LICENSE.txt": "/HackerNews-Sort-App/static/js/2.091b9918.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fffd7220.js",
     "static/js/2.091b9918.chunk.js",
-    "static/css/main.4effa4f7.chunk.css",
-    "static/js/main.2d53af50.chunk.js"
+    "static/css/main.9f33b17f.chunk.css",
+    "static/js/main.9cbd369e.chunk.js"
   ]
 }
